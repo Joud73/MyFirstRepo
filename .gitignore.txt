@@ -1,0 +1,2 @@
+#ignore all .pl files
+*.pl
